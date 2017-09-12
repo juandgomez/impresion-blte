@@ -1,0 +1,25 @@
+{
+  "name": "impresion-blte",
+  "version": "0.0.1",
+  "description": "plugin cordova para impresion bluetooth",
+  "cordova": {
+    "id": "cordova-plugin-impresion-blte",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juandgomez/impresion-blte.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "JDG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juandgomez/impresion-blte/issues"
+  },
+  "homepage": "https://github.com/juandgomez/impresion-blte#readme"
+}
